@@ -37,7 +37,9 @@ The dataset used in this case study consists of:
 - **Current Location**: The current location of the delivery driver in Nigeria.
 - **Delivery Time**: Total time taken for delivery in minutes.
 - **Delays**: Delays that occurred during delivery, measured in minutes.
-  
+ 
+![Excel table](excel_table.png)
+
 
 ## Tech Stack
 - **Tool**: Microsoft Excel  
@@ -60,7 +62,7 @@ The project involves:
 6. **Documentation & Recommendations**: Comprehensive project documentation with actionable insights and recommendations.
    
 ## Dashboard Image
-![Dashboard Image](excel_table.png)
+![Dashboard Image](order_dashboard.png)
 
 ## Insights
 
