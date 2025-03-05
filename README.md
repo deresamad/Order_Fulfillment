@@ -62,7 +62,7 @@ The project involves:
 6. **Documentation & Recommendations**: Comprehensive project documentation with actionable insights and recommendations.
    
 ## Dashboard Image
-![Dashboard Image](order_dashboard.png)
+![Dashboard Image](Order_dashboard.png)
 
 ## Insights
 
