@@ -4,7 +4,7 @@
 ## Project Overview
 This project aims to enhance the order fulfillment process for **UTC Logistics Solutions**, a leading logistics company in Nigeria, by developing an interactive Excel dashboard to address backlogs, optimize resource allocation, improve customer communication, and reduce delays in delivery. The goal is to improve operational efficiency and customer satisfaction while safeguarding the company's reputation.
 
-![Introduction Image](images/into.jpg)
+![Introduction Image](intro.jpg)
 
 ## Rationale for the Project
 Order Fulfillment is a critical process that involves managing orders from customers, ensuring timely deliveries, and maintaining accurate inventories. When backlogs accumulate, they can significantly impact customer satisfaction, as delays in receiving products create dissatisfaction. In the logistics industry, managing backlogs and delays is crucial for maintaining a competitive edge and ensuring smooth operations.
@@ -38,7 +38,6 @@ The dataset used in this case study consists of:
 - **Delivery Time**: Total time taken for delivery in minutes.
 - **Delays**: Delays that occurred during delivery, measured in minutes.
   
-![Dashboard Image](images/excel_table.png)
 
 ## Tech Stack
 - **Tool**: Microsoft Excel  
@@ -59,6 +58,9 @@ The project involves:
 4. **Data Transformation**: Cleaning and transforming the data to make it suitable for analysis.
 5. **Data Analysis & Visualization**: Analyzing the data and creating visual representations to communicate insights.
 6. **Documentation & Recommendations**: Comprehensive project documentation with actionable insights and recommendations.
+   
+## Dashboard Image
+![Dashboard Image](excel_table.png)
 
 ## Insights
 
@@ -106,6 +108,4 @@ The project involves:
 ## Link to Project
 [https://humberital-my.sharepoint.com/:x:/r/personal/n01738005_humber_ca/Documents/Delivery%20data.xlsx?d=wda0f53e8a9814321bd3ebcbc3afd78a8&csf=1&web=1&e=A53nYb]
 
-## Dashboard Image
-![Dashboard Image](images/dashboard.png)
 
