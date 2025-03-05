@@ -4,7 +4,7 @@
 ## Project Overview
 This project aims to enhance the order fulfillment process for **UTC Logistics Solutions**, a leading logistics company in Nigeria, by developing an interactive Excel dashboard to address backlogs, optimize resource allocation, improve customer communication, and reduce delays in delivery. The goal is to improve operational efficiency and customer satisfaction while safeguarding the company's reputation.
 
-![Introduction Image](images/intro.jpg)
+![Introduction Image](images/into.jpg)
 
 ## Rationale for the Project
 Order Fulfillment is a critical process that involves managing orders from customers, ensuring timely deliveries, and maintaining accurate inventories. When backlogs accumulate, they can significantly impact customer satisfaction, as delays in receiving products create dissatisfaction. In the logistics industry, managing backlogs and delays is crucial for maintaining a competitive edge and ensuring smooth operations.
