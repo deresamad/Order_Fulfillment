@@ -2,7 +2,7 @@
 # Data-Driven Excellence in Order Fulfillment
 
 ## Project Overview
-This project aims to enhance the order fulfillment process for **UTC Logistics Solutions**, a leading logistics company in Nigeria, by developing an interactive Excel dashboard to address backlogs, optimize resource allocation, improve customer communication, and reduce delays in delivery. The goal is to improve operational efficiency and customer satisfaction while safeguarding the company's reputation.
+This project aims to enhance the order fulfillment process for **UTC Logistics Solutions**, a leading logistics company , by developing an interactive Excel dashboard to address backlogs, optimize resource allocation, improve customer communication, and reduce delays in delivery. The goal is to improve operational efficiency and customer satisfaction while safeguarding the company's reputation.
 
 ![Introduction Image](intro.jpg)
 
