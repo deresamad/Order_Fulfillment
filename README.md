@@ -2,7 +2,7 @@
 # Data-Driven Excellence in Order Fulfillment
 
 ## Project Overview
-This project aims to enhance the order fulfillment process for **UTC Logistics Solutions**, a leading logistics company , by developing an interactive Excel dashboard to address backlogs, optimize resource allocation, improve customer communication, and reduce delays in delivery. The goal is to improve operational efficiency and customer satisfaction while safeguarding the company's reputation.
+This project aims to enhance the order fulfillment process for **Streamline Logistics Solutions**, a leading logistics company , by developing an interactive Excel dashboard to address backlogs, optimize resource allocation, improve customer communication, and reduce delays in delivery. The goal is to improve operational efficiency and customer satisfaction while safeguarding the company's reputation.
 
 ![Introduction Image](intro.jpg)
 
@@ -17,7 +17,7 @@ The reasons for this project include:
 - **Reputation Management**: Consistently improving delivery processes maintains a good brand reputation, especially in a competitive Nigerian market.
 
 ## Aim of the Project
-This project focuses on the creation of an Excel interactive dashboard that provides visibility into the order fulfillment process for **UTC Logistics Solutions**. Key objectives include:
+This project focuses on the creation of an Excel interactive dashboard that provides visibility into the order fulfillment process for **Streamline Logistics Solutions**. Key objectives include:
 
 - Efficiently allocate delivery resources.
 - Monitor order progress and identify potential delays.
@@ -96,7 +96,7 @@ The project involves:
    Drivers with consistently higher delays (such as D86, D44, and D29) should undergo additional training. This training can focus on time management, route planning, and the use of delivery tools. Additionally, performing regular vehicle maintenance checks will help minimize delays caused by vehicle-related issues. Using a data-driven approach to track and assess drivers’ performance can further identify areas for improvement.
 
 3. **Route Optimization**:  
-   High-delay routes (such as K, L, and M) need to be re-evaluated. Traffic conditions, road quality, and delivery schedules should be analyzed to identify external factors contributing to delays in Nigerian cities. Based on these insights, alternate routes or more efficient scheduling could be implemented. Using route optimization software can also be a valuable tool in improving overall delivery efficiency.
+   High-delay routes (such as K, L, and M) need to be re-evaluated. Traffic conditions, road quality, and delivery schedules should be analyzed to identify external factors contributing to delays in  cities. Based on these insights, alternate routes or more efficient scheduling could be implemented. Using route optimization software can also be a valuable tool in improving overall delivery efficiency.
 
 4. **Vehicle Allocation**:  
    There is evidence that deliveries made with Vehicle A are facing higher delays than those made with Vehicle B. A reassessment of vehicle allocation is necessary, particularly for longer routes or bulkier shipments. It may be more efficient to assign Vehicle A to routes with shorter distances or lighter deliveries, while reserving Vehicle B for longer or more complex routes. Regular vehicle performance tracking should be implemented to ensure optimal vehicle utilization.
